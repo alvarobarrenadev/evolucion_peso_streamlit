@@ -63,4 +63,4 @@ pip install openpyxl
 
 # Contribuciones
 
-Si deseas contribuir a este proyecto, puedes realizar un fork y enviar un pull request con tus mejoras o sugerencias.
+Si quieres contribuir a este proyecto, puedes realizar un fork y enviar un pull request con tus mejoras o sugerencias.
