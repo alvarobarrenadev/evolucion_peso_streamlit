@@ -6,8 +6,8 @@ La aplicación permite cargar un archivo de Excel que contiene una plantilla act
 
 En la aplicación se muestra un gráfico interactivo utilizando Altair.
 
-# Capturas de Pantalla
-
+# Resultado Final
+![Muestra resultado app](visualizacion_peso.png)
 
 ## Requisitos
 
