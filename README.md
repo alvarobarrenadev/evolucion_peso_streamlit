@@ -1,6 +1,8 @@
 # Evolución Semanal del Peso
 
-Este proyecto es una aplicación interactiva construida con Streamlit que permite visualizar la evolución semanal del peso mediante un gráfico lineal. La aplicación permite cargar un archivo de Excel con los datos y muestra un gráfico interactivo utilizando Altair.
+Este proyecto es una aplicación interactiva construida con Streamlit que permite visualizar la evolución semanal del peso mediante un gráfico lineal. 
+
+La aplicación permite cargar un archivo de Excel que contiene una plantilla actualizada con datos de peso corporal que tendrás que reemplazar por los tuyos y muestra un gráfico interactivo utilizando Altair.
 
 ## Requisitos
 
