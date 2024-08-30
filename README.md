@@ -2,7 +2,12 @@
 
 Este proyecto es una aplicación interactiva construida con Streamlit que permite visualizar la evolución semanal del peso mediante un gráfico lineal. 
 
-La aplicación permite cargar un archivo de Excel que contiene una plantilla actualizada con datos de peso corporal que tendrás que reemplazar por los tuyos y muestra un gráfico interactivo utilizando Altair.
+La aplicación permite cargar un archivo de Excel que contiene una plantilla actualizada con la fecha de cada registro de peso, en mi caso cada domingo y los datos de peso corporal que tendrás que reemplazar por los tuyos.
+
+En la aplicación se muestra un gráfico interactivo utilizando Altair.
+
+# Capturas de Pantalla
+
 
 ## Requisitos
 
