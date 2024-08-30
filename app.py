@@ -24,7 +24,7 @@ st.set_page_config(layout="wide")  # Configura la página para uso amplio de anc
 st.title('Evolución semanal del peso')
 
 # Cargar el archivo de Excel
-uploaded_file = st.file_uploader("Elige un archivo de Excel", type="xlsx")
+uploaded_file = st.file_uploader("Sube tu archivo de Excel", type="xlsx")
 
 if uploaded_file is not None:
     # Llamar a la función para cargar y preparar los datos
