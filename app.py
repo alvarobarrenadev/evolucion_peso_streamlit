@@ -1,9 +1,5 @@
-# pip install pandas
-# pip install altair
-# pip install streamlit
-# pip install openpyxl
+# pip install pandas altair streamlit
 # streamlit run app.py
-
 import pandas as pd
 import altair as alt
 import streamlit as st
