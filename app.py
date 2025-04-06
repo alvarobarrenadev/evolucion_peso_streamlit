@@ -1,4 +1,4 @@
-# pip install pandas altair streamlit
+# pip install pandas altair streamlit openpyxl
 # streamlit run app.py
 
 import pandas as pd
@@ -18,7 +18,7 @@ def load_and_prepare_data(file):
 # Configuración de la aplicación Streamlit
 st.set_page_config(layout="wide")  # Configura la página para uso amplio de ancho
 
-st.title('Evolución semanal del peso')
+st.title('Evolución semanal del peso - Álvaro')
 
 # Cargar el archivo de Excel
 uploaded_file = st.file_uploader("Sube tu archivo de Excel", type="xlsx")
